@@ -1,0 +1,2 @@
+# django_practice
+Djangoを使ったWebアプリケーションです
